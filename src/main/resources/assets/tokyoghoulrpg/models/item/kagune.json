@@ -1,0 +1,15 @@
+{
+  "textures": {"0": "tokyoghoulrpg:item/kagune"},
+  "elements": [
+    {"from":[6,0,6],"to":[10,16,10],"faces":{"north":{"texture":"#0"},"south":{"texture":"#0"},"east":{"texture":"#0"},"west":{"texture":"#0"},"up":{"texture":"#0"},"down":{"texture":"#0"}}},
+    {"from":[2,3,7],"to":[14,7,9],"faces":{"north":{"texture":"#0"},"south":{"texture":"#0"},"east":{"texture":"#0"},"west":{"texture":"#0"},"up":{"texture":"#0"},"down":{"texture":"#0"}}},
+    {"from":[1,6,7],"to":[15,9,9],"faces":{"north":{"texture":"#0"},"south":{"texture":"#0"},"east":{"texture":"#0"},"west":{"texture":"#0"},"up":{"texture":"#0"},"down":{"texture":"#0"}}},
+    {"from":[0,9,7],"to":[16,12,9],"faces":{"north":{"texture":"#0"},"south":{"texture":"#0"},"east":{"texture":"#0"},"west":{"texture":"#0"},"up":{"texture":"#0"},"down":{"texture":"#0"}}}
+  ],
+  "display": {
+    "thirdperson_righthand":{"rotation":[0,90,-35],"translation":[0,1,3],"scale":[0.65,0.65,0.65]},
+    "thirdperson_lefthand":{"rotation":[0,90,35],"translation":[0,1,3],"scale":[0.65,0.65,0.65]},
+    "gui":{"rotation":[25,145,0],"translation":[0,0,0],"scale":[0.7,0.7,0.7]},
+    "ground":{"translation":[0,1,0],"scale":[0.6,0.6,0.6]}
+  }
+}

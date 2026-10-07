@@ -1,0 +1,14 @@
+{
+  "textures": {"0": "tokyoghoulrpg:item/quinque_blade"},
+  "elements": [
+    {"from":[7,0,7],"to":[9,5,9],"faces":{"north":{"texture":"#0"},"south":{"texture":"#0"},"east":{"texture":"#0"},"west":{"texture":"#0"},"up":{"texture":"#0"},"down":{"texture":"#0"}}},
+    {"from":[5,4,7],"to":[11,7,9],"faces":{"north":{"texture":"#0"},"south":{"texture":"#0"},"east":{"texture":"#0"},"west":{"texture":"#0"},"up":{"texture":"#0"},"down":{"texture":"#0"}}},
+    {"from":[6,6,6],"to":[10,16,10],"faces":{"north":{"texture":"#0"},"south":{"texture":"#0"},"east":{"texture":"#0"},"west":{"texture":"#0"},"up":{"texture":"#0"},"down":{"texture":"#0"}}},
+    {"from":[4,13,6],"to":[12,16,10],"faces":{"north":{"texture":"#0"},"south":{"texture":"#0"},"east":{"texture":"#0"},"west":{"texture":"#0"},"up":{"texture":"#0"},"down":{"texture":"#0"}}}
+  ],
+  "display": {
+    "thirdperson_righthand":{"rotation":[-80,20,-15],"translation":[0,2,0],"scale":[0.7,0.7,0.7]},
+    "thirdperson_lefthand":{"rotation":[-80,20,15],"translation":[0,2,0],"scale":[0.7,0.7,0.7]},
+    "gui":{"rotation":[0,45,0],"scale":[0.75,0.75,0.75]}
+  }
+}
