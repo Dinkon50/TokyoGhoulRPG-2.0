@@ -168,7 +168,7 @@ public class ModEvents {
                     e.player.hurt(e.player.damageSources().generic(), 0.35f);
                 }
                 if(d.getBleedingTicks()==1){
-                    e.player.hurt(e.player.damageSources().outOfWorld(), 1000f);
+                    e.player.hurt(e.player.damageSources().fellOutOfWorld(), 1000f);
                 }
             }
 
